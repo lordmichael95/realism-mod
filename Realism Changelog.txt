@@ -1,0 +1,77 @@
+Realism Mod Changelog
+
+This is my first mod and I hope you enjoy! If you have any questions, comments, concerns, suggestions, or want to get the latest version
+of this mod, please visit: http://forum.paradoxplaza.com/forum/showthread.php?687969-Mod-Realism-Mod
+
+
+v1.11		Compatible with v1.1
+-Added keyboard shortcuts
+	-This adds 8 shortcuts to the game: "z","x","c","v","b","n","m" and "`" (tilde)
+	-z raises levy directly from any holding you have control over, or from the building screen.
+	-x dismisses the currently selected levy (army or ship), *capital* "x" will dismiss ALL selected levies
+	-c raises ships in selected holding or building
+	-v embarks the currently selected levy into a ship that is IN port in that province
+	-b merges selected levies or ships, so long as they are in the same zone or province (naturally). If you have a single army/shipgroup the "b" key will open the new unit interface
+	-n selects the trade port screen on coastal provinces
+	-m selects the normal holdings screen 
+	-` (tilde) is a back button. Please be aware that ` is usually used to open the cheat interface. This does not prevent that functionality, in fact it is a logical button choice considering you can only access the cheat interface when there are no open windows. 
+-The interface has been adjusted (see screenshots for more info)
+-Made the amphibious landing penalty more severe
+-Creating/Usurping fraction of de jure counties that you must control to create a non-imperial title is back to pre 1.10 (50%) rather than 51%
+-Culture will now spread even if the religion of a county is the same as the top most liege; Culture will now spread to islands and will spread faster in counties with coast.
+-A character dieing from the Duelist trait will no longer get duelist_death
+-It is now possible to live until 90
+
+ A big thanks to Arumba for letting me use his interface & shortcuts mod
+ 
+v1.1	Compatible with v1.01
+	-Changed the following traits:
+		-Pregnant: added a -0.50 health penalty
+		-Lifestyle Traits:
+			-Hedonist: increased fertility from 20% to 25%; same opinion penalty was increased from -5 to -10; church opinion penalty was increased from -10 to -20
+			-Celibate: increased church opinion bonus from 10 to 35
+			-Scholar: increased learning bonus from 2 to 3; added 0.1 monthly piety bonus
+			-Mystic: added a 0.2 monthly piety bonus
+			-Impaler: increased intrigue bonus from 1 to 3; added a martial bonus of 1; added a diplomacy hit of -2
+			-Duelist: increased martial bonus from 1 to 3; added a health penalty of -0.5
+			-Hunter: increased martial bonus from 1 to 2; added a 0.1 monthly prestige bonus
+			-Poet: added a learning bonus of 1; added a 0.1 monthly prestige bonus
+			-Falconer: added a martial bonus of 1; added a 0.3 monthly prestige bonus
+	-Added decisions which allows a character to convert to orthodoxy, catholicism, shia islam or sunni islam
+	-Slightly reduced navel movement speed from 30 to 25
+	-Updated the localization folder so when people die from a gluttonous death (or any other trait) the "gluttonous_death" text will be replaced with appropriate text
+	
+	On a side note: I have added the link to my Realism Mod thread in the Realism Changelog
+
+v1.01	Compatible with v1.00
+	-Made it impossible for people to live beyond 80
+	-Increased the natural death chance in the 70-79 range
+	-All level one education traits get a -10 vassal opinion penalty except for Detached Priest which gets -10 general opinion penalty
+	-Max childbirth age has been changed back to vanilla (age 45); I might modify the likelihood of childbirth once women start getting close to 45 
+
+v1.00
+	-Piety hit for attacking someone crusading was increased from 40 to 150
+	-Piety hit for attacking someone who is defending against other religious group was increased from 100 to 200
+	-No delay between being able to pick a new ambition of plot after cancelling other ambition
+	-Age of Adulthood is now 12
+	-After 30, women can no longer give children
+	-Doubled the natural death chance
+	-Counties no longer have to have 1 of each type of holding
+	-Units embarked in galleys receive 1% attrition per month
+	-The opinion penalty for being a traitor was increased from -50 to -70
+	-The opinion penalty for usurping a title was increased from -50 to -80
+	-The opinion penalty for being a tyrant was increased from -10 to -15
+	-The opinion penalty for demanding religious conversion was increased from -10 to -20
+	-Catching the bubonic plague will now require a regent
+	-Changed the following traits:
+		-Excommunicated: opinion penalty was increased from -30 to -60; added a -1 monthly prestige penalty; added -2 stewardship penalty; added -2 learning penalty
+		-Lunatic: trait is now opinion neutral with other lunatics
+		-Bastard: added -0.25 monthly prestige penalty
+		-Legitimized Bastard: added -0.20 monthly prestige penalty
+		-Gluttonous: added -1 health penalty
+		-Paranoid: added 1 health bonus
+		-Brave: added a -0.5 health penalty
+		-Craven: added a 1 health bonus
+		-Homosexual: added a -50 church penalty
+		-Kinslayer: added a -5 vassal penalty; added a -5 church penalty
+		-Possessed: added a -20 church penalty
