@@ -1,0 +1,11 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+# Converting Religion events
+EVTDESC1000129000;After much thought and contemplation, you have recognized that the god you have been worshiping is not the true god. Now, after denouncing your former faith, removing or destroying all icons, tokens and shrines from your dwelling, you now profess yourself an Orthodox.;
+EVTOPTA1000129000;Glory to God!;
+EVTDESC1000129001;After much thought and contemplation, you have recognized that the god you have been worshiping is not the true god. Now, after denouncing your former faith, removing or destroying all icons, tokens and shrines from your dwelling, you now profess yourself a Catholic.;
+EVTOPTA1000129001;Glory to God!;
+EVTDESC1000129002;After much thought and contemplation, you have recognized that the god you have been worshiping is not the true god. Now, after denouncing your former faith, removing or destroying all icons, tokens and shrines from your dwelling, you now profess yourself a Shi'ite.;
+EVTOPTA1000129002;Glory to God!;
+EVTDESC1000129003;After much thought and contemplation, you have recognized that the god you have been worshiping is not the true god. Now, after denouncing your former faith, removing or destroying all icons, tokens and shrines from your dwelling, you now profess yourself a Sunni.;
+EVTOPTA1000129003;Glory to God!;

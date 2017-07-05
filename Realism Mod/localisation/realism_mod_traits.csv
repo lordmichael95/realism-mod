@@ -1,0 +1,9 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+brave_death;a heroic death;
+brave_death_desc;This chacter died during the course of a heroic deed.;
+gluttonous_death;a gluttonous death; 
+gluttonous_death_desc;This chacter died from the unheathly excess of food.;
+pregnant_death;a childbrith death;
+pregnant_death_desc;This character died during the process of childbrith.;
+duelist_death;a duelist death.;
+duelist_death_desc;This character died from a unlucky blow from a duel.;
