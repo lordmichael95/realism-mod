@@ -1,0 +1,55 @@
+# custom events for Realism Mod v1.11 and on
+# THIS IS IN THE MOD!
+
+character_event = {
+	id = 1000129000
+	title = "Converted to Orthodoxy"
+	desc = "EVTDESC1000129000"
+	picture = GFX_evt_throne_room
+	is_triggered_only = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA1000129000"
+	}
+}
+character_event = {
+	id = 1000129001
+	title = "Converted to Catholicism"
+	desc = "EVTDESC1000129001"
+	picture = GFX_evt_throne_room
+	is_triggered_only = yes
+	mean_time_to_happen = {
+	days = 1
+	}
+	option = {
+		name = "EVTOPTA1000129001"
+	}
+}
+character_event = {
+	id = 1000129002
+	title = "Converted to Shia Islam"
+	desc = "EVTDESC1000129002"
+	picture = GFX_evt_throne_room
+	is_triggered_only = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA1000129002"
+	}
+}	
+character_event = {
+	id = 1000129003
+	title = "Converted to Sunni Islam"
+	desc = "EVTDESC1000129003"
+	picture = GFX_evt_throne_room
+	is_triggered_only = yes
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA1000129003"
+	}
+}
