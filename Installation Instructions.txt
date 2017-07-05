@@ -1,0 +1,7 @@
+Installation Instructions:
+
+1. Click on the download link
+2. You will be taken to a MediaFire link, click on the green load button on the bottom right-hand side
+3. Once the file has finished downloading, extract the file to: user/Libraies/My Documents/Paradox Interactive/Crusader Kings II/mod (if you haven't used mods before, you may have to make the mod folder)
+4. Run the game, and in the startup window, check mark the checkbox that is this mod
+5. Play the game and enjoy
